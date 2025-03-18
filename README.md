@@ -7,7 +7,7 @@ This project implements a grading system using Java, following object-oriented p
 ## Folder Structure
 
 ```
-Assignment4/
+GRADINGSYS/
     ├── AnalyzableInterface/
     │     ├── GradedActivity.java
     │     ├── PassFailActivity.java
@@ -67,7 +67,7 @@ Assignment4/
 ### **Step 1: Navigate to the Assignment4 Directory**
 
 ```sh
-cd C:\Users\oluwa\Desktop\
+cd C:\Users\oluwa\Desktop\GRADINGSYSTEM
 ```
 
 ### **Step 2: Compile All Classes**
@@ -90,7 +90,7 @@ java AnalyzableInterface.CourseGradesDemo
      ```java
      package AnalyzableInterface;
      ```
-   - Compile from the COURSEGRADINGSYS \*\*.
+   - Compile from the GRADINGSYSTEM \*\*.
 
 2. **Cannot Find Symbol Error**:
 
@@ -106,9 +106,9 @@ java AnalyzableInterface.CourseGradesDemo
 
 ## Author
 
-- **Name:** Oluwatobi Emmanuel Afolabi
-- **Course:** Computer Science
-- &#x20;Course Grades System
+- Name: Oluwatobi Emmanuel Afolabi
+- Course: Computer Science
+- Course Grades System
 
 ## License
 
